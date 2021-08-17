@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 
 import { PagesRoutingModule } from './pages-routing.module';
 import { Index1Component } from './index1/index1.component';
+import {SharedModule} from '../Shared/shared.module';
 
 
 @NgModule({
@@ -11,7 +12,8 @@ import { Index1Component } from './index1/index1.component';
   ],
   imports: [
     CommonModule,
-    PagesRoutingModule
+    PagesRoutingModule,
+    SharedModule
   ]
 })
 export class PagesModule { }
