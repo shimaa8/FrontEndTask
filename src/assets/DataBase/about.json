@@ -1,0 +1,23 @@
+{
+  "title": "All-In-One Assessment Platform for Teachers and Schools",
+  "brief": "",
+  "imagePath": "assets/images/about.png",
+  "features": [
+    {
+      "id": 0,
+      "detail": "ClassTech provides an effective and reliable online assessment with instant grading."
+    },
+    {
+      "id": 1,
+      "detail": "ClassTech is designed with built-in anti-cheating settings, such as: randomization of questions, randomization of MCQ options, no backward navigation to previous questions and an allocated timer to answer each question."
+    },
+    {
+      "id": 2,
+      "detail": "ClassTech cuts the cost and paper wastage incurred during the examination process."
+    },
+    {
+      "id": 3,
+      "detail": "ClassTech is developed in two versions: For Teachers and for Schools."
+    }
+  ]
+}

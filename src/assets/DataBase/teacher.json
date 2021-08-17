@@ -1,0 +1,19 @@
+{
+  "title": "ClassTech for Teachers ",
+  "brief": "(The Personal Version) ",
+  "imagePath": "assets/images/Personal login screen.jpg",
+  "features": [
+    {
+      "id": 0,
+      "detail": "ClassTech empowers teachers to develop a secure bank of questions, with labels related to: subject, topic, duration and assigned marks to each question. "
+    },
+    {
+      "id": 1,
+      "detail": "Teachers can easily plan, save and launch exams at any given time and date to assigned classes. Then teachers can decide when to share exam results with classes or individual students. "
+    },
+    {
+      "id": 2,
+      "detail": "ClassTech reports the learning progress of students and even indicate topics (within the subject) in which more effort is required to guide teaching plans, where ea‘assessment drives learning’. "
+    }
+  ]
+}

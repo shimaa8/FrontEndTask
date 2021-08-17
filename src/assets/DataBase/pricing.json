@@ -1,0 +1,92 @@
+{
+  "brief": "Call to action pricing table is really crucial to your for your business website. Make your bids stand-out with amazing options.",
+  "pricingOptions": [
+    {
+      "title": "ECONOMY",
+      "popular": false,
+      "currency": "$",
+      "price": 9.90,
+      "billingPer": "MONTH",
+      "features": [
+        {
+          "title": "Bandwidth",
+          "detail": "10GB"
+        },
+        {
+          "title": "Onlinespace",
+          "detail": "50MB"
+        },
+        {
+          "title": "Support",
+          "detail": "No"
+        },
+        {
+          "title": "Domain",
+          "detail": "1"
+        },
+        {
+          "title": "Hidden Fees",
+          "detail": "No"
+        }
+      ]
+    },
+    {
+      "title": "DELUXE",
+      "popular": true,
+      "currency": "$",
+      "price": 19.90,
+      "billingPer": "MONTH",
+      "features": [
+        {
+          "title": "Bandwidth",
+          "detail": "10GB"
+        },
+        {
+          "title": "Onlinespace",
+          "detail": "500MB"
+        },
+        {
+          "title": "Support",
+          "detail": "Yes"
+        },
+        {
+          "title": "Domain",
+          "detail": "10"
+        },
+        {
+          "title": "Hidden Fees",
+          "detail": "No"
+        }
+      ]
+    },
+    {
+      "title": "ULTIMATE",
+      "popular": false,
+      "currency": "$",
+      "price": 29.90,
+      "billingPer": "MONTH",
+      "features": [
+        {
+          "title": "Bandwidth",
+          "detail": "100GB"
+        },
+        {
+          "title": "Onlinespace",
+          "detail": "2 GB"
+        },
+        {
+          "title": "Support",
+          "detail": "Yes"
+        },
+        {
+          "title": "Domain",
+          "detail": "Unlimited"
+        },
+        {
+          "title": "Hidden Fees",
+          "detail": "No"
+        }
+      ]
+    }
+  ]
+}

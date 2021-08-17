@@ -1,0 +1,27 @@
+{
+  "title": "ClassTech for Schools",
+  "brief": "(The Institutional Version)",
+  "imagePath": "assets/images/WhatsApp Image 2020-10-17 at 1.57.16 PM.jpeg",
+  "features": [
+    {
+      "id": 0,
+      "detail": "Headmasters have dashboards to monitor examination processes in all classes across different subjects."
+    },
+    {
+      "id": 1,
+      "detail": "ClassTech facilitates seamless communication between school administration, teachers, students and their parents."
+    },
+    {
+      "id": 2,
+      "detail": "ClassTech analytics provide insights to support decision of school administration with respect to students’ learning progress and teachers’ performance."
+    },
+    {
+      "id": 3,
+      "detail": "ClassTech is a web-based solution that can be used to plan and reports exams in-campus and off-campus."
+    },
+    {
+      "id": 4,
+      "detail": "Parents may have instant access to view grades of their children in each exam. "
+    }
+  ]
+}

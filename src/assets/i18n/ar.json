@@ -1,0 +1,354 @@
+{
+  "HOME": {
+    "TITLE": "Hello en Angular with ngx-translate!",
+    "TITLEfetures": "shimoo",
+    "SELECT": "تغيير اللغه",
+    "lan": "العربية",
+    "home1": "الرئيسية",
+    "about": "عن كلاستك",
+    "feature": "مميزات المنصة",
+    "teacher": "للمدرسين",
+    "school": "للمدارس",
+    "contact": "اتصل بنا",
+    "images": [
+      "assets/images/blog/img-1.jpg",
+      "assets/images/blog/img-1.jpg",
+      "assets/images/blog/img-1.jpg",
+      "assets/images/blog/img-1.jpg"
+    ]
+  },
+  "Home": {
+    "title": "",
+    "subTitle": "Online Exams Made Super Easy!",
+    "brief": "Explore a great learning and assessment experience",
+    "videoId": "XtFgej-FPDM",
+    "images": [
+      {
+        "path": "assets/images/slider/Confused%2000%20.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2006%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2007%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2008%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2009%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2011%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2012%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2013%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2014%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2016%20March.png"
+      }
+    ]
+  },
+  "About": {
+    "title": "منصة متكاملة لإمتحانات أونلاين للمدرسين والمدارس ",
+    "brief": "",
+    "imagePath": "assets/images/about.png",
+    "features": [
+      {
+        "id": 0,
+        "detail": "كلاستيك منصة متطورة لتقييم الطلاب تم تخطيطها وتصميمها بواسطة خبراء في التعليم حيث جمعت أفضل الممارسات في تخطيط وإدارة الإمتحانات "
+      },
+      {
+        "id": 1,
+        "detail": "كلاستيك بها مزايا فريدة قد لا تتوفر في منصات مماثلة عالمية حيث أنها تتيح التواصل بين المدرسين والطلبة وكذلك أولياء الأمور من أجل متابعة أداء الطلاب وإصداء تقارير تفصيلية عن كل إجراءات الإمتحانات "
+      }
+    ]
+  },
+  "school": {
+    "title": "كلاستيك للمدارس ",
+    "brief": "",
+    "imagePath": "assets/images/WhatsApp Image 2020-10-17 at 1.57.16 PM.jpeg",
+    "features": [
+      {
+        "id": 0,
+        "detail": "كلاستيك توفر لوحة تحكم لإدارة المدرسة لمتابعة أداء الطلاب والمدرسين في كل المواد من خلال مؤشرات أداء عن تأليف الأسئلة وإدارة الإمتحانات وتحليل نتائج الطلبة في كل مادة أو لكل مدرس "
+      },
+      {
+        "id": 1,
+        "detail": "كلاستيك تمكن إدارة المدرسة من توفير حسابات شخصية مباشرة لأولياء الأمور لمتابعة أداء أولادهم وبناتهم دون الحاجة لإرسال تقارير عبر أية قنوات تواصل أخرى "
+      },
+      {
+        "id": 2,
+        "detail": "كلاستيك توفر الكثير من الوقت والمال الذي يستهلك في طباعة وتوزيع وتسليم الإختبارات والنتائج من خلال منظومة متكاملة وعالية الخصوصية"
+      },
+      {
+        "id": 3,
+        "detail": "كلاستيك تساعد إدارة المدرسة على ضمان أن تعبر النتائج عن مستوى الطلبة بدقة بما في المنصة من إعدادات لمنع الغش مثل تحديد وقت لكل سؤال مع الترتيب العشوائي لأسئلة كل طالب وطالبة "
+      }
+    ]
+  },
+  "teacher": {
+    "title": "كلاستيك للمدرسين  ",
+    "brief": "",
+    "imagePath": "assets/images/Personal login screen.jpg",
+    "features": [
+      {
+        "id": 0,
+        "detail": "كلاستيك توفر للمدرسين منصة متكاملة لإعداد وتصنيف وحفظ الأسئلة تبعاً لموضوعات المادة ومدة إجابة السؤال والدرجة الخاصة به."
+      },
+      {
+        "id": 1,
+        "detail": "كلاستيك ترسل تنبيهات فورية للطلبة بموعد أي امتحان في المستقبل وتضمن تصحيح تلقائي للأسئلة الموضوعية مما يوفر وقت وجهد المدرس لاستثماره في الشرح والمراجعة. "
+      },
+      {
+        "id": 2,
+        "detail": "كلاستيك تقوم بإعداد تقارير تفصيلية عن أداء كل طالب وطالبة لتمكين المدرس من متابعة أدائهم والتركيز على الموضوعات التي كانت فيها صعوبات لدى الطلبة . "
+      }
+    ]
+  },
+  "features": [
+    {
+      "iconType": "Material Icon",
+      "icon": "apps",
+      "title": "إنشاء الفصول",
+      "brief": "يمكنك إنشاء الفصول والمجموعات التي تناسبك بكل سهولة بعد تفعيل حسابك في منصة كلاستيك. "
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-graduation-cap",
+      "title": "إضافة الطلبة ",
+      "brief": "أضف الطلبة إلى فصول افتراضية لإرسال الإمتحانات لهم في نفس الوقت وإعداد تقارير بكل فصل أو مجموعة على حدة."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-feather-alt",
+      "title": "بنك الأسئلة ",
+      "brief": "إبدأ بحفظ أسئلتك في منصة كلاستيك بأنواع مختلفة تشمل أسئلة الإختيار من متعدد أو  الأسئلة المقالية او اسئلة صح ام خطأ."
+    },
+    {
+      "iconType": "Material Icon",
+      "icon": "hourglass_top",
+      "title": "حدد الوقت والدرجة ",
+      "brief": "حدد مدة الإجابة والدرجة في كل سؤال مع ربط الأسئلة بموضوعات المادة لتسهيل إدارة الإمتحانات وإصدار التقارير ."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-rocket",
+      "title": "خطط و ارسل الإمتحان ",
+      "brief": "خطط الإمتحان بعد اختيار الأسئلة ثم حدد وقت بداية الإمتحان في أي وقت لأي مجموعة من الطلبة ."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-chart-bar",
+      "title": "إصدار التقارير ",
+      "brief": "يمكنك إصدار تقارير الإمتحانات ومتابعة الأداء في موضوعات المادة ومشاركة التقارير مع الطلبة أو أولياء الأمور ."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "far fa-gem",
+      "title": "تصميم أنيق ",
+      "brief": "واجهات منصة كلاستيك صممت بعناية لتوفر تجربة رائعة لكافة المستخدمين من مدرسين أو طلبة أو أولياء أمور. "
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fab fa-python",
+      "title": "تكنولوجيا متطورة",
+      "brief": "تم بناء منصة كلاستيك بلغة بايثون وهي لغة البرمجة الأشهر في العالم حالياً فضلاً عن توافقها مع تقنيات الذكاء الإصطناعي."
+    },
+    {
+      "iconType": "Material Icon",
+      "icon": "lock",
+      "title": "حماية وتأمين البيانات ",
+      "brief": "حماية بيانات المستخدمين والأسئلة والدرجات أولوية قصوى من خلال إجراءات خاصة و خوادم مترابطة لمنصة كلاستيك ."
+    }
+  ],
+  "headers": {
+    "STUNNING_FEATURES": "مزايا رائعة",
+    "contact": "اتصل بنا"
+  },
+  "news": {
+    "title": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean class at a euismod mus luctus quam.",
+    "news": [
+      {
+        "news_img": "assets/images/blog/img-1.jpg",
+        "news_title": "UI & UX Design",
+        "news_head": "Doing a cross country road trip",
+        "news_body": "She packed her seven versalia, put her initial into the belt and made herself on the way.."
+      },
+      {
+        "news_img": "assets/images/blog/img-2.jpg",
+        "news_title": "Digital Marketing",
+        "news_head": "New exhibition at our Museum",
+        "news_body": "Pityful a rethoric question ran over her cheek, then she continued her way."
+      },
+      {
+        "news_img": "assets/images/blog/img-3.jpg",
+        "news_title": "Travelling",
+        "news_head": " Far far away",
+        "news_body": "far from the countries Vokalia and Consonantia."
+      }
+    ]
+  },
+  "contact": {
+    "title": "We thrive when coming up with innovative ideas but also understand that a smart concept should be supported with measurable results.",
+    "address_one": [
+      {
+        "street": "4461 Cedar Street Moro",
+        "city": "AR 72368"
+      }
+    ],
+    "address_two": [
+      {
+        "street": "2467 Swick Hill Street",
+        "city": "New Orleans, LA 70171"
+      }
+    ],
+    "working_hours": "9:00AM To 6:00PM"
+  },
+  "requests": [
+    {
+      "id": 0,
+      "request": "أنا مدرس للمرحلة الإعدادية  "
+    },
+    {
+      "id": 1,
+      "request": "أنا مدرس للمرحلة الثانوية  "
+    },
+    {
+      "id": 2,
+      "request": "أنا مدير مدرسة أو مؤسسة تعليمية   "
+    }
+  ],
+  "websiteDescription": {
+    "title": "إبدأ اليوم باستخدام منصة كلاستيك ",
+    "brief": "قم بتخطيط وإدارة امتحاناتك من خلال منصة كلاستيك ووفر الوقت والجهد مع الحصول على تقارير مفصلة لأداء كل طالب في موضوعات المادة"
+  },
+  "pricing": {
+    "brief": "Call to action pricing table is really crucial to your for your business website. Make your bids stand-out with amazing options.",
+    "pricingOptions": [
+      {
+        "title": "ECONOMY",
+        "popular": false,
+        "currency": "$",
+        "price": 9.90,
+        "billingPer": "MONTH",
+        "features": [
+          {
+            "title": "Bandwidth",
+            "detail": "10GB"
+          },
+          {
+            "title": "Onlinespace",
+            "detail": "50MB"
+          },
+          {
+            "title": "Support",
+            "detail": "No"
+          },
+          {
+            "title": "Domain",
+            "detail": "1"
+          },
+          {
+            "title": "Hidden Fees",
+            "detail": "No"
+          }
+        ]
+      },
+      {
+        "title": "DELUXE",
+        "popular": true,
+        "currency": "$",
+        "price": 19.90,
+        "billingPer": "MONTH",
+        "features": [
+          {
+            "title": "Bandwidth",
+            "detail": "10GB"
+          },
+          {
+            "title": "Onlinespace",
+            "detail": "500MB"
+          },
+          {
+            "title": "Support",
+            "detail": "Yes"
+          },
+          {
+            "title": "Domain",
+            "detail": "10"
+          },
+          {
+            "title": "Hidden Fees",
+            "detail": "No"
+          }
+        ]
+      },
+      {
+        "title": "ULTIMATE",
+        "popular": false,
+        "currency": "$",
+        "price": 29.90,
+        "billingPer": "MONTH",
+        "features": [
+          {
+            "title": "Bandwidth",
+            "detail": "100GB"
+          },
+          {
+            "title": "Onlinespace",
+            "detail": "2 GB"
+          },
+          {
+            "title": "Support",
+            "detail": "Yes"
+          },
+          {
+            "title": "Domain",
+            "detail": "Unlimited"
+          },
+          {
+            "title": "Hidden Fees",
+            "detail": "No"
+          }
+        ]
+      }
+    ]
+  },
+  "getStarted": {
+    "title": "Let's Get Started",
+    "brief": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+  },
+  "buttons": {
+    "getStarted": " إعرف أكثر هنا",
+    "seeMore": "إبدأ اليوم",
+    "getFeatures": "المزيد عن مميزات كلاستيك",
+    "sendMessage": "ارسل الرساله"
+
+  },
+  "footer": {
+    "Home": "الرئسية",
+    "About": "عن كلاستيك",
+    "Features": "مميزات المنصة",
+    "Teacher": "المدرسين",
+    "School": "المدارس",
+    "terms": "الشروط والاحكام ",
+    "privacy": " الخصوصيه",
+    "contact": "اتصل بنا",
+    "request": "اعرف اكثر",
+    "download": "تحميل الفلاير"
+  },
+  "contactForm": {
+    "name": "الإسم",
+    "phone": "رقم التليفون ",
+    "email": "البريد الإلكتروني  ",
+    "subject": "الموضوع",
+    "message": "من فضلك أكتب رسالتك هنا وسوف نتواصل معك في أقرب وقت ممكن "
+  }
+}

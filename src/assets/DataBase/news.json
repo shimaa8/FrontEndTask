@@ -1,0 +1,23 @@
+{
+  "title": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean class at a euismod mus luctus quam.",
+  "news": [
+    {
+      "news_img": "assets/images/blog/img-1.jpg",
+      "news_title": "UI & UX Design",
+      "news_head": "Doing a cross country road trip",
+      "news_body": "She packed her seven versalia, put her initial into the belt and made herself on the way.."
+    },
+    {
+      "news_img": "assets/images/blog/img-2.jpg",
+      "news_title": "Digital Marketing",
+      "news_head": "New exhibition at our Museum",
+      "news_body": "Pityful a rethoric question ran over her cheek, then she continued her way."
+    },
+    {
+      "news_img": "assets/images/blog/img-3.jpg",
+      "news_title": "Travelling",
+      "news_head": " Far far away",
+      "news_body": "far from the countries Vokalia and Consonantia."
+    }
+  ]
+}

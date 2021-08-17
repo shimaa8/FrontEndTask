@@ -1,0 +1,56 @@
+[
+  {
+    "iconType": "Material Icon",
+    "icon": "apps",
+    "title": "Add Class",
+    "brief": "Create a class with any label that suits any feature of your students , grade , timing or simply Brilliant"
+  },
+  {
+    "iconType": "FontAwesome",
+    "icon": "fas fa-graduation-cap",
+    "title": "Add Students",
+    "brief": "Add students to your classes to assign exams to all at once and view their class-based reports."
+  },
+  {
+    "iconType": "FontAwesome",
+    "icon": "fas fa-feather-alt",
+    "title": "Author Questions",
+    "brief": "Start building your item (question) bank in either MCQ, Short Answer or T/F to be used for future exams."
+  },
+  {
+    "iconType": "Material Icon",
+    "icon": "hourglass_top",
+    "title": "Adjust Grade/Questions",
+    "brief": "You can adjust the marks and duration allocated to each question in your personal bank."
+  },
+  {
+    "iconType": "FontAwesome",
+    "icon": "fas fa-rocket",
+    "title": "Plan & Launch Exams",
+    "brief": "Search your item bank to plan exams and launch them to assigned classes."
+  },
+  {
+    "iconType": "FontAwesome",
+    "icon": "fas fa-chart-bar",
+    "title": "Generate Reports",
+    "brief": "Generate reports per student or per class and decide when to share results with them."
+  },
+  {
+    "iconType": "FontAwesome",
+    "icon": "far fa-gem",
+    "title": "Elegant Design",
+    "brief": "Designers applied the best practices in UX (User Experience) and UI (User Interface)"
+  },
+  {
+    "iconType": "FontAwesome",
+    "icon": "fab fa-python",
+    "title": "Top-Notch Technology",
+    "brief": "The module was developed using Python which enables analytics using AI (artificial intelligence) "
+  },
+  {
+    "iconType": "Material Icon",
+    "icon": "lock",
+    "title": "Secured Question Bank",
+    "brief": "All your questions and results are secured in a cloud and can be restored, if lost."
+  }
+]

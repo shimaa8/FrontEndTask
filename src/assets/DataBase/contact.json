@@ -1,0 +1,16 @@
+{
+  "title": "We thrive when coming up with innovative ideas but also understand that a smart concept should be supported with measurable results.",
+  "address_one":[
+    {
+      "street": "4461 Cedar Street Moro",
+      "city": "AR 72368"
+    }
+  ] ,
+  "address_two": [
+    {
+      "street": "2467 Swick Hill Street",
+      "city": "New Orleans, LA 70171"
+    }
+  ],
+  "working_hours": "9:00AM To 6:00PM"
+}

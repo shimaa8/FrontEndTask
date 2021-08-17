@@ -1,0 +1,365 @@
+{
+  "HOME": {
+    "TITLE": "Hello en Angular with ngx-translate!",
+    "TITLEfetures": "shimoo",
+    "SELECT": "Change language",
+    "lan": "English",
+
+    "home1": "Home",
+    "about": "About",
+    "feature": "Features",
+    "teacher": "Teachers",
+    "school": "Schools",
+    "contact": "Contact",
+    "images": [
+      "assets/images/blog/img-1.jpg",
+      "assets/images/blog/img-1.jpg",
+      "assets/images/blog/img-1.jpg",
+      "assets/images/blog/img-1.jpg"
+    ]
+  },
+  "Home": {
+    "title": "",
+    "subTitle": "Online Exams Made Super Easy!",
+    "brief": "Explore a great learning and assessment experience",
+    "videoId": "XtFgej-FPDM",
+    "images": [
+      {
+        "path": "assets/images/slider/Confused%2000%20.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2006%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2007%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2008%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2009%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2011%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2012%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2013%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2014%20March.png"
+      },
+      {
+        "path": "assets/images/slider/Confused%20-%2016%20March.png"
+      }
+    ]
+  },
+  "About": {
+    "title": "All-In-One Assessment Platform for Teachers and Schools",
+    "brief": "",
+    "imagePath": "assets/images/about.png",
+    "features": [
+      {
+        "id": 0,
+        "detail": "ClassTech provides an effective and reliable online assessment with instant grading."
+      },
+      {
+        "id": 1,
+        "detail": "ClassTech is designed with built-in anti-cheating settings, such as: randomization of questions, randomization of MCQ options, no backward navigation to previous questions and an allocated timer to answer each question."
+      },
+      {
+        "id": 2,
+        "detail": "ClassTech cuts the cost and paper wastage incurred during the examination process."
+      },
+      {
+        "id": 3,
+        "detail": "ClassTech is developed in two versions: For Teachers and for Schools."
+      }
+    ]
+  },
+  "school": {
+    "title": "ClassTech for Schools",
+    "brief": "(The Institutional Version)",
+    "imagePath": "assets/images/WhatsApp Image 2020-10-17 at 1.57.16 PM.jpeg",
+    "features": [
+      {
+        "id": 0,
+        "detail": "Headmasters have dashboards to monitor examination processes in all classes across different subjects."
+      },
+      {
+        "id": 1,
+        "detail": "ClassTech facilitates seamless communication between school administration, teachers, students and their parents."
+      },
+      {
+        "id": 2,
+        "detail": "ClassTech analytics provide insights to support decision of school administration with respect to students’ learning progress and teachers’ performance."
+      },
+      {
+        "id": 3,
+        "detail": "ClassTech is a web-based solution that can be used to plan and reports exams in-campus and off-campus."
+      },
+      {
+        "id": 4,
+        "detail": "Parents may have instant access to view grades of their children in each exam. "
+      }
+    ]
+  },
+  "teacher": {
+    "title": "ClassTech for Teachers ",
+    "brief": "(The Personal Version) ",
+    "imagePath": "assets/images/Personal login screen.jpg",
+    "features": [
+      {
+        "id": 0,
+        "detail": "ClassTech empowers teachers to develop a secure bank of questions, with labels related to: subject, topic, duration and assigned marks to each question. "
+      },
+      {
+        "id": 1,
+        "detail": "Teachers can easily plan, save and launch exams at any given time and date to assigned classes. Then teachers can decide when to share exam results with classes or individual students. "
+      },
+      {
+        "id": 2,
+        "detail": "ClassTech reports the learning progress of students and even indicate topics (within the subject) in which more effort is required to guide teaching plans, where ea‘assessment drives learning’. "
+      }
+    ]
+  },
+  "features":
+  [
+    {
+      "iconType": "Material Icon",
+      "icon": "apps",
+      "title": "Add Class",
+      "brief": "Create a class with any label that suits any feature of your students , grade , timing or simply Brilliant"
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-graduation-cap",
+      "title": "Add Students",
+      "brief": "Add students to your classes to assign exams to all at once and view their class-based reports."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-feather-alt",
+      "title": "Author Questions",
+      "brief": "Start building your item (question) bank in either MCQ, Short Answer or T/F to be used for future exams."
+    },
+    {
+      "iconType": "Material Icon",
+      "icon": "hourglass_top",
+      "title": "Adjust Grade/Questions",
+      "brief": "You can adjust the marks and duration allocated to each question in your personal bank."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-rocket",
+      "title": "Plan & Launch Exams",
+      "brief": "Search your item bank to plan exams and launch them to assigned classes."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fas fa-chart-bar",
+      "title": "Generate Reports",
+      "brief": "Generate reports per student or per class and decide when to share results with them."
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "far fa-gem",
+      "title": "Elegant Design",
+      "brief": "Designers applied the best practices in UX (User Experience) and UI (User Interface)"
+    },
+    {
+      "iconType": "FontAwesome",
+      "icon": "fab fa-python",
+      "title": "Top-Notch Technology",
+      "brief": "The module was developed using Python which enables analytics using AI (artificial intelligence) "
+    },
+    {
+      "iconType": "Material Icon",
+      "icon": "lock",
+      "title": "Secured Question Bank",
+      "brief": "All your questions and results are secured in a cloud and can be restored, if lost."
+    }
+  ],
+  "headers": {
+    "STUNNING_FEATURES": "STUNNING FEATURES",
+    "contact": "GET IN TOUCH"
+  },
+  "news": {
+    "title": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean class at a euismod mus luctus quam.",
+    "news": [
+      {
+        "news_img": "assets/images/blog/img-1.jpg",
+        "news_title": "UI & UX Design",
+        "news_head": "Doing a cross country road trip",
+        "news_body": "She packed her seven versalia, put her initial into the belt and made herself on the way.."
+      },
+      {
+        "news_img": "assets/images/blog/img-2.jpg",
+        "news_title": "Digital Marketing",
+        "news_head": "New exhibition at our Museum",
+        "news_body": "Pityful a rethoric question ran over her cheek, then she continued her way."
+      },
+      {
+        "news_img": "assets/images/blog/img-3.jpg",
+        "news_title": "Travelling",
+        "news_head": " Far far away",
+        "news_body": "far from the countries Vokalia and Consonantia."
+      }
+    ]
+  },
+  "contact": {
+    "title": "We thrive when coming up with innovative ideas but also understand that a smart concept should be supported with measurable results.",
+    "address_one": [
+      {
+        "street": "4461 Cedar Street Moro",
+        "city": "AR 72368"
+      }
+    ],
+    "address_two": [
+      {
+        "street": "2467 Swick Hill Street",
+        "city": "New Orleans, LA 70171"
+      }
+    ],
+    "working_hours": "9:00AM To 6:00PM"
+  },
+  "requests": [
+    {
+      "id": 0,
+      "request": "I am interested in the personal version."
+    },
+    {
+      "id": 1,
+      "request": "I am interested in the school version"
+    }
+  ],
+  "websiteDescription": {
+    "title": "Build your Question Bank today",
+    "brief": "Plan And Launch Exams To Assigned Classes And Create Reports Per Students And Per Class"
+  },
+  "pricing": {
+    "brief": "Call to action pricing table is really crucial to your for your business website. Make your bids stand-out with amazing options.",
+    "pricingOptions": [
+      {
+        "title": "ECONOMY",
+        "popular": false,
+        "currency": "$",
+        "price": 9.90,
+        "billingPer": "MONTH",
+        "features": [
+          {
+            "title": "Bandwidth",
+            "detail": "10GB"
+          },
+          {
+            "title": "Onlinespace",
+            "detail": "50MB"
+          },
+          {
+            "title": "Support",
+            "detail": "No"
+          },
+          {
+            "title": "Domain",
+            "detail": "1"
+          },
+          {
+            "title": "Hidden Fees",
+            "detail": "No"
+          }
+        ]
+      },
+      {
+        "title": "DELUXE",
+        "popular": true,
+        "currency": "$",
+        "price": 19.90,
+        "billingPer": "MONTH",
+        "features": [
+          {
+            "title": "Bandwidth",
+            "detail": "10GB"
+          },
+          {
+            "title": "Onlinespace",
+            "detail": "500MB"
+          },
+          {
+            "title": "Support",
+            "detail": "Yes"
+          },
+          {
+            "title": "Domain",
+            "detail": "10"
+          },
+          {
+            "title": "Hidden Fees",
+            "detail": "No"
+          }
+        ]
+      },
+      {
+        "title": "ULTIMATE",
+        "popular": false,
+        "currency": "$",
+        "price": 29.90,
+        "billingPer": "MONTH",
+        "features": [
+          {
+            "title": "Bandwidth",
+            "detail": "100GB"
+          },
+          {
+            "title": "Onlinespace",
+            "detail": "2 GB"
+          },
+          {
+            "title": "Support",
+            "detail": "Yes"
+          },
+          {
+            "title": "Domain",
+            "detail": "Unlimited"
+          },
+          {
+            "title": "Hidden Fees",
+            "detail": "No"
+          }
+        ]
+      }
+    ]
+  },
+  "getStarted": {
+    "title": "Let's Get Started",
+    "brief": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+  },
+  "buttons": {
+    "getStarted": "Get Started",
+    "seeMore": "Request A Demo",
+    "getFeatures":"Go To Features",
+    "sendMessage": "Send Message"
+
+  },
+  "footer": {
+    "Home": "Home",
+    "About":"About",
+    "Features": "Features",
+    "Teacher": "Teachers",
+    "School": "Schools",
+    "terms":"Terms & Conditions",
+   "privacy":" Privacy Policy",
+    "contact":"Contact us",
+    "request":"Request a Demo",
+    "download":"Download Flyer"
+  },
+  "contactForm": {
+    "name": "Your name*",
+    "phone": "Your Phone Number*",
+    "email": "Your email*",
+    "subject": "Your Subject..",
+    "message": "Your message..."
+
+  }
+}
