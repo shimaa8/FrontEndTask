@@ -1,1 +1,49 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-wall {
+  background-image: url("src/assets/images/intro-bg.png");
+  background-size: 100% 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.font-72 {
+  font-size: 48px;
+  font-weight: 700;
+
+}
+
+.icon {
+  width: 64px;
+  height: 64px;
+  border: 2px solid #09c;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon i {
+  font-size: 32px;
+  color: #0099cc;
+}
+
+.bg-blue {
+  background-color: #1144A8;
+}
+
+.bg-subBlue {
+  background-color: #0038A8;
+}
+
+.numbers h2 {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.bg-lightGreen {
+  background-color: #b1dfbb;
+}
+
+.border-lightGreen {
+  color: #b1dfbb;
+}

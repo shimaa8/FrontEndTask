@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-index1',
@@ -7,9 +7,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Index1Component implements OnInit {
 
-  constructor() { }
+  currentSection = 'home';
+
+  /* @param sectionId specify the current sectionID
+  */
+  onSectionChange(sectionId: string): void {
+    this.currentSection = sectionId;
+  }
+
+  constructor() {
+  }
 
   ngOnInit(): void {
   }
 
+  toggleMenu() {
+
+  }
 }

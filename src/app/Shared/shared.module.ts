@@ -9,6 +9,7 @@ import {TeamComponent} from './team/team.component';
 import {ClientsComponent} from './clients/clients.component';
 import {ContactUsComponent} from './contact-us/contact-us.component';
 import {FooterComponent} from './footer/footer.component';
+import { ScrollspyDirective } from './scrollspy.directive';
 
 
 @NgModule({
@@ -19,19 +20,20 @@ import {FooterComponent} from './footer/footer.component';
     TeamComponent,
     ClientsComponent,
     ContactUsComponent,
-    FooterComponent
+    FooterComponent,
+    ScrollspyDirective
   ],
   imports: [
     CommonModule,
     SharedRoutingModule
   ],
-  exports: [AboutComponent,
-    PortfolioComponent,
-    TestimonialsComponent,
-    TeamComponent,
-    ClientsComponent,
-    ContactUsComponent,
-    FooterComponent]
+    exports: [AboutComponent,
+        PortfolioComponent,
+        TestimonialsComponent,
+        TeamComponent,
+        ClientsComponent,
+        ContactUsComponent,
+        FooterComponent, ScrollspyDirective]
 })
 export class SharedModule {
 }
