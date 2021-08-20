@@ -1,4 +1,5 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, HostListener, OnInit} from '@angular/core';
+import {$} from 'protractor';
 
 @Component({
   selector: 'app-index1',
@@ -8,15 +9,22 @@ import {Component, OnInit} from '@angular/core';
 export class Index1Component implements OnInit {
 
   currentSection = 'home';
+  private _event: any;
 
-  /* @param sectionId specify the current sectionID
-  */
+  /**
+   * Section changed method
+   * @param sectionId specify the current sectionID
+   */
+  @HostListener('window:scroll', ['$event']) // for window scroll events
+
   onSectionChange(sectionId: string): void {
     this.currentSection = sectionId;
   }
 
   constructor() {
+
   }
+
 
   ngOnInit(): void {
   }
@@ -24,4 +32,11 @@ export class Index1Component implements OnInit {
   toggleMenu() {
 
   }
+
+  // tslint:disable-next-line:typedef
+  onScroll(event: any) {
+    console.log(event);
+  }
 }
+
+

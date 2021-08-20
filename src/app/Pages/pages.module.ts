@@ -14,7 +14,7 @@ import { ScrollToModule } from '@nicky-lenaers/ngx-scroll-to';
     CommonModule,
     PagesRoutingModule,
     SharedModule,
-    ScrollToModule
+    ScrollToModule.forRoot()
   ]
 })
 export class PagesModule { }

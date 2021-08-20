@@ -160,3 +160,10 @@
   width: 20px;
   height: 20px;
 }
+
+.btnTop{
+  bottom: 15px;
+  right: 15px;
+  position: fixed;
+  z-index: 9999;
+}
