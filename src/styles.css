@@ -20,11 +20,24 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}.icon2 {
+  width: 32px;
+  height: 32px;
+  /*border: 2px solid #09c;*/
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0099cc;
+  margin: 5px;
 }
 
 .icon i {
   font-size: 32px;
   color: #0099cc;
+}.icon2 i {
+  font-size: 16px;
+  color: #fff;
 }
 
 .bg-blue {
@@ -46,4 +59,8 @@
 
 .border-lightGreen {
   color: #b1dfbb;
+}
+
+.contact-us i{
+  color: #0099cc;
 }

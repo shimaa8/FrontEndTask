@@ -10,6 +10,7 @@ import {ClientsComponent} from './clients/clients.component';
 import {ContactUsComponent} from './contact-us/contact-us.component';
 import {FooterComponent} from './footer/footer.component';
 import { ScrollspyDirective } from './scrollspy.directive';
+// import {AgmCoreModule} from '@agm/core';
 
 
 @NgModule({
@@ -25,7 +26,10 @@ import { ScrollspyDirective } from './scrollspy.directive';
   ],
   imports: [
     CommonModule,
-    SharedRoutingModule
+    SharedRoutingModule,
+    // AgmCoreModule.forRoot({
+    //   apiKey: 'AIzaSyAnU0AOQJWtWBkS4zJLGL5wW8EFcnvRS44'
+    // })
   ],
     exports: [AboutComponent,
         PortfolioComponent,
