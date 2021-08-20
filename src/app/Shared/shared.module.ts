@@ -11,7 +11,7 @@ import {ContactUsComponent} from './contact-us/contact-us.component';
 import {FooterComponent} from './footer/footer.component';
 import { ScrollspyDirective } from './scrollspy.directive';
 // import {AgmCoreModule} from '@agm/core';
-
+import {TabViewModule} from 'primeng/tabview';
 
 @NgModule({
   declarations: [
@@ -27,6 +27,7 @@ import { ScrollspyDirective } from './scrollspy.directive';
   imports: [
     CommonModule,
     SharedRoutingModule,
+    TabViewModule
     // AgmCoreModule.forRoot({
     //   apiKey: 'AIzaSyAnU0AOQJWtWBkS4zJLGL5wW8EFcnvRS44'
     // })
