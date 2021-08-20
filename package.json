@@ -24,6 +24,7 @@
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@nicky-lenaers/ngx-scroll-to": "^9.0.0",
     "angular-material": "^1.2.3",
+    "angular-responsive-carousel": "^2.1.2",
     "bootstrap": "^4.6.0",
     "install": "^0.13.0",
     "jquery": "^3.6.0",

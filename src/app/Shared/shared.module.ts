@@ -12,6 +12,7 @@ import {FooterComponent} from './footer/footer.component';
 import { ScrollspyDirective } from './scrollspy.directive';
 // import {AgmCoreModule} from '@agm/core';
 import {TabViewModule} from 'primeng/tabview';
+import {IvyCarouselModule} from 'angular-responsive-carousel';
 
 @NgModule({
   declarations: [
@@ -27,7 +28,8 @@ import {TabViewModule} from 'primeng/tabview';
   imports: [
     CommonModule,
     SharedRoutingModule,
-    TabViewModule
+    TabViewModule,
+    IvyCarouselModule,
     // AgmCoreModule.forRoot({
     //   apiKey: 'AIzaSyAnU0AOQJWtWBkS4zJLGL5wW8EFcnvRS44'
     // })

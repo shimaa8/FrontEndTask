@@ -1,1 +1,98 @@
-<p>testimonials works!</p>
+<section class="Testimonials bg-lightGreen shadow-lg">
+  <div class="container py-5">
+    <div class="row  py-5">
+      <div class="col-md-8 m-auto text-center ">
+        <h3>Testimonials</h3>
+
+      </div>
+
+
+    </div>
+    <div class="row">
+      <carousel [cellsToScroll]="1"
+                [objectFit]="'cover'"
+                [cellWidth]="'100%'"
+                [arrowsOutside]="false"
+                [autoplay]="true"
+                [dots]="true"
+                [loop]="true"
+                [arrows]="true"
+               >
+        <div class="carousel-cell" *ngFor="let item of data" >
+          <div class="container">
+            <div class="row">
+              <div class="col-md-9 m-auto py-5">
+                <div class="row">
+                  <div class="col-md-2 py-4">
+                    <img [src]="item?.avatar" class="img-fluid rounded-circle align-self-center" alt="...">
+                  </div>
+
+                  <div class="col-md-10">
+                    <div class="media-caption">
+                      <h5 class="mt-0">{{item?.first_name}} {{item?.last_name}}</h5>
+                      <span class="text-muted">{{item?.email}}</span>
+                      <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+<!--        <div class="carousel-cell">2</div>-->
+        ...
+      </carousel>
+<!--      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">-->
+
+<!--        <div class="carousel-inner">-->
+<!--          <div class="carousel-item active" *ngFor="let item of data">-->
+<!--            <div class="container">-->
+<!--              <div class="row">-->
+<!--           <div class="col-md-9 m-auto">-->
+<!--             <div class="row">-->
+<!--               <div class="col-md-2 ">-->
+<!--                 <img [src]="item?.avatar" class="img-fluid rounded-circle align-self-center" alt="...">-->
+<!--               </div>-->
+
+<!--               <div class="col-md-10">-->
+<!--                 <div class="media-caption">-->
+<!--                   <h5 class="mt-0">{{item?.first_name}} {{item?.last_name}}</h5>-->
+<!--                   <span class="text-muted">{{item?.email}}</span>-->
+<!--                   <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>-->
+
+<!--                 </div>-->
+<!--               </div>-->
+<!--             </div>-->
+<!--           </div>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--&lt;!&ndash;          <div class="carousel-item">&ndash;&gt;-->
+<!--&lt;!&ndash;            <img src="..." class="d-block w-100" alt="...">&ndash;&gt;-->
+<!--&lt;!&ndash;          </div>&ndash;&gt;-->
+<!--&lt;!&ndash;          <div class="carousel-item">&ndash;&gt;-->
+<!--&lt;!&ndash;            <img src="..." class="d-block w-100" alt="...">&ndash;&gt;-->
+<!--&lt;!&ndash;          </div>&ndash;&gt;-->
+<!--        </div>-->
+<!--        <ol class="carousel-indicators position-static" >-->
+<!--          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active sliderr"></li>-->
+<!--          <li data-target="#carouselExampleIndicators" data-slide-to="1" class="sliderr"></li>-->
+<!--          <li data-target="#carouselExampleIndicators" data-slide-to="2" class="sliderr"></li>-->
+<!--        </ol>-->
+<!--&lt;!&ndash;        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">&ndash;&gt;-->
+<!--&lt;!&ndash;          <span class="carousel-control-prev-icon" aria-hidden="true"></span>&ndash;&gt;-->
+<!--&lt;!&ndash;          <span class="sr-only">Previous</span>&ndash;&gt;-->
+<!--&lt;!&ndash;        </a>&ndash;&gt;-->
+<!--&lt;!&ndash;        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">&ndash;&gt;-->
+<!--&lt;!&ndash;          <span class="carousel-control-next-icon" aria-hidden="true"></span>&ndash;&gt;-->
+<!--&lt;!&ndash;          <span class="sr-only">Next</span>&ndash;&gt;-->
+<!--&lt;!&ndash;        </a>&ndash;&gt;-->
+<!--&lt;!&ndash;     &ndash;&gt;-->
+
+<!--      </div>-->
+    </div>
+
+
+  </div>
+</section>

@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apiEndPoint: 'https://api.classtechonline.com/',
-  apiEndPointImage: 'https://api.classtechonline.com'
+  apiEndPoint: 'https://reqres.in/',
+  apiEndPointImage: 'https://reqres.in/img'
 
 };
 
