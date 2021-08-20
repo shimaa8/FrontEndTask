@@ -23,12 +23,12 @@ export class TestimonialsComponent implements OnInit {
   getUsers(): void {
     this._TestmoniolsService.getTestmonials().subscribe((res: { data: ITestmonials[] }) => {
       this.data = res.data;
-      for (const re of res.data) {
-        this.images.push(re.avatar);
-
-      }
-      console.log(this.data);
-      console.log(this.images);
+      // for (const re of res.data) {
+      //   this.images.push(re.avatar);
+      //
+      // }
+      // console.log(this.data);
+      // console.log(this.images);
     });
   }
 }
