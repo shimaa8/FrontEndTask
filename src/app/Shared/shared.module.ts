@@ -13,6 +13,7 @@ import { ScrollspyDirective } from './scrollspy.directive';
 // import {AgmCoreModule} from '@agm/core';
 import {TabViewModule} from 'primeng/tabview';
 import {IvyCarouselModule} from 'angular-responsive-carousel';
+// import {AgmCoreModule} from '@agm/core';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import {IvyCarouselModule} from 'angular-responsive-carousel';
     SharedRoutingModule,
     TabViewModule,
     IvyCarouselModule,
+    // AgmCoreModule,
     // AgmCoreModule.forRoot({
     //   apiKey: 'AIzaSyAnU0AOQJWtWBkS4zJLGL5wW8EFcnvRS44'
     // })

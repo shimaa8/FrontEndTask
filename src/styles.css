@@ -170,3 +170,6 @@ nav{
   position: fixed;
   z-index: 9999;
 }
+agm-map {
+  height: 300px;
+}
